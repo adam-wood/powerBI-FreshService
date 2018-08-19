@@ -11,5 +11,4 @@ Instructions for FreshService.pbit template file
 2. After clicking Load, you will likely get a 'Refresh' Error. You will need to input your credentials. → Click 'Close', then click 'Refresh'.
 3. You will be prompted for credentials. Click 'Basic' then enter your login details for Freshservice.com (not SSO details if used)
 4. You may need to play with filters etc to get tickets to show.
-5. You should also populate 'Agents' and 'Departments' tables in the Query Editor if you need these.
-6. You can also adjust the Papramaters (URL, DateFrom, MaxTickets) in the query editor.
+5. You can also adjust the Papramaters (URL, DateFrom, MaxTickets) in the query editor.
