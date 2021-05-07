@@ -12,3 +12,5 @@ Instructions for FreshService.pbit template file
 3. You will be prompted for credentials. Click 'Basic' then enter your login details for Freshservice.com (not SSO details if used)
 4. You may need to play with filters etc to get tickets to show.
 5. You can also adjust the Paramaters (URL, DateFrom, MaxTickets) in the query editor.
+
+I have since moved on from the company where I was using FreshService. Consequently I no longer have access to the product to maintain this project. Perhaps more to the point, there are other things I should be spending my time on 😀.
